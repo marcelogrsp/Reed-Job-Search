@@ -18,8 +18,25 @@ Alright, everything isn't flowers, we have some disadvantages to consider:
 ### Getting the API Key
 On the video below you can see how to get the API Key. The API Key is used to grant access to the API and allow the HTTP requests via our VBA code. It is a basic authentication, so don't worry about access and refresh tokens (OAuth).
 
-### **VIDEO HERE**
+### How to use the worksheet
+The worksheet is self-learned and intuitive.
+Type the keywords on *What job are you looking for*. E.g **Data Scientist**
+Select the filters of your choice:
+- Locations
+- Distance from location
+- Job Type:
+  - Permanent
+  - Contract
+  - Temp
+  - Parttime
+  - Fulltime
+  - Graduate
+- Posted by:
+  - Recruitment Agency
+  - Direct Employer
+- Salary Expectations
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=GXuJ_IK_WU8
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[Click here to view the demo video](https://vimeo.com/338888821)
+
+Inline-style: 
+![alt text](https://www.dropbox.com/s/73xbdi02zlnljvx/Front.png?dl=0 "Front End")
