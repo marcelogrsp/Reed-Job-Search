@@ -38,5 +38,5 @@ Select the filters of your choice:
 
 [Click here to view the demo video](https://vimeo.com/338888821)
 
-Inline-style: 
+Screenshot
 ![Front End](https://static.wixstatic.com/media/a6c6ba_9ac8900bfdd642bd8e010fe28b758e49~mv2.png)
