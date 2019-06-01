@@ -20,6 +20,6 @@ On the video below you can see how to get the API Key. The API Key is used to gr
 
 ### **VIDEO HERE**
 
-<figure class="video_container">
-  <iframe src="https://player.vimeo.com/video/338888821" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=https://www.youtube.com/watch?v=GXuJ_IK_WU8
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
