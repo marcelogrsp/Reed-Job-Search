@@ -39,4 +39,4 @@ Select the filters of your choice:
 [Click here to view the demo video](https://vimeo.com/338888821)
 
 Inline-style: 
-![alt text](https://www.dropbox.com/s/73xbdi02zlnljvx/Front.png?dl=0 "Front End")
+![Front End](https://www.dropbox.com/s/73xbdi02zlnljvx/Front.png?dl=0)
